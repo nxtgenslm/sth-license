@@ -1,0 +1,10 @@
+{
+  "LL8226": {
+    "status": "active",
+    "name": "Client-1"
+  },
+  "AB1234": {
+    "status": "inactive",
+    "name": "Client-2"
+  }
+}
