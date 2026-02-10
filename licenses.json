@@ -1,9 +1,11 @@
 {
   "LL8226": {
+    "hwid": "c49f2dd6409c3c77",
     "status": "active",
     "name": "Client-1"
   },
   "AB1234": {
+    "hwid": "other_client_hwid",
     "status": "inactive",
     "name": "Client-2"
   }
