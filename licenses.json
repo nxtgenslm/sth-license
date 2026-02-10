@@ -4,9 +4,9 @@
     "status": "active",
     "name": "Client-1"
   },
-  "AB1234": {
-    "hwid": "other_client_hwid",
-    "status": "inactive",
+  "LL8226": {
+    "hwid": "R90Y0RGD",
+    "status": "active",
     "name": "Client-2"
   }
 }
